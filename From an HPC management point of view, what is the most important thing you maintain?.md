@@ -32,7 +32,7 @@ A strong 10+ years experience answer would be:
 
 ### Interview Closing Statement (Very Strong)
 
-> "If I have to summarize everything into one sentence, my responsibility is to ensure that the HPC cluster is **highly available, highly utilized, performant, secure, and reliable**, so researchers can run simulations without interruption while the infrastructure operates efficiently."
+>  my responsibility is to ensure that the HPC cluster is **highly available, highly utilized, performant, secure, and reliable**, so researchers can run simulations without interruption while the infrastructure operates efficiently."
 
 ---
 
